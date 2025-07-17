@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProfileApp</string>
+    <string name="my_name">Remon Ayman</string>
+    <string name="my_age">Age: 20</string>
+    <string name="linkedin_link">Visit my LinkedIn</string>
+    <string name="linkedin_url">https://www.linkedin.com/in/remonayman</string>
+</resources>
